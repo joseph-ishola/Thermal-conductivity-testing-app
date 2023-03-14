@@ -1,0 +1,1 @@
+This app is used in conjuction with an arduino and two temperature sensors to test for the thermal conductivity of a specific metal material and give out the result of the test after steady state is reached in the material.
